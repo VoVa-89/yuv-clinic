@@ -1,0 +1,16 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/app-hN94Cc-u.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true,
+    "css": [
+      "assets/app-mf541_Qo.css"
+    ]
+  },
+  "resources/scss/app.scss": {
+    "file": "assets/app-mf541_Qo.css",
+    "src": "resources/scss/app.scss",
+    "isEntry": true
+  }
+}
